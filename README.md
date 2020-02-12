@@ -21,6 +21,9 @@ This mechanistic model describes the activation of immediate early genes such as
 > - seaborn
 
 ## Usage
+Tutorial for optimization of custom models is available [here](https://github.com/okadalabipr/biomass/blob/master/tutorial/biomass_tutorial.md).
+
+
 #### Parameter Estimation of ODE Models (*n* = 1, 2, 3, · · ·)
 The temporary result will be saved in ```out/n/``` after each iteration.
 ```bash
